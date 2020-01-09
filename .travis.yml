@@ -1,0 +1,5 @@
+language: python
+python:
+  - "2.7.17"
+script:
+  - python travis_ci_python_hello_world.py
