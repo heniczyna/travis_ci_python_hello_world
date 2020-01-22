@@ -13,5 +13,3 @@ To get this label, do the steps:
 3. click on your name on the top-right of the Travis CI page
 4. choose the repository you are working with and you will see current build status near to your repository name
 5. click on that build status and then specify _**BRANCH**_, _**FORMAT**_ and _**RESULT**_ (in case of FORMAT, use *Markdown* format to be able to put it in your _**\*.md**_ file)
-
-:poland:
